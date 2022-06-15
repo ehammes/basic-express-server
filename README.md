@@ -28,10 +28,8 @@ Building a basic Express server
 
 #### Features / Routes
 
-- GET : `/personn` - specific route to hit
+- GET : `/person` - specific route to hit
 
 #### Tests
 
 - Run tests using `npm start`
-
-#### UML
