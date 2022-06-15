@@ -11,8 +11,8 @@ Building a basic Express server
 ### Links and Resources
 
 - [ci/cd](https://github.com/ehammes/basic-express-server/actions) (GitHub Actions)
-- [back-end server url](http://xyz.com) (TBD)
-- [front-end application](http://xyz.com) (TBD)
+- [back-end server url Dev](https://cf4-basic-express-server.herokuapp.com/person) (Heroku dev)
+- [back-end server url Prod](https://cf-basic-express-server-prod.herokuapp.com/person) (Heroku prod)
 
 ### Setup
 
@@ -28,10 +28,8 @@ Building a basic Express server
 
 #### Features / Routes
 
-- GET : `/personn` - specific route to hit
+- GET : `/person` - specific route to hit
 
 #### Tests
 
 - Run tests using `npm start`
-
-#### UML
