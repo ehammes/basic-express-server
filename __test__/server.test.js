@@ -16,10 +16,5 @@ describe('Server Tests', () => {
       expect(response.status).toEqual(404);
       expect(response.text).toEqual('404 Not Found');
     });
-    // test('500 internal server error', async () => {
-    //   let response = await request.get('/person');
-    //   expect(response.status).toEqual(500);
-    //   expect(response.text).toEqual();
-    // });
   });
 });
